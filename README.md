@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Aniket Patil
 Currently working on an Insurance related AI project.<br>Leveraging my experience of the Insurance industry of 7+ years towards AI focused Insurance setups.
 
 
